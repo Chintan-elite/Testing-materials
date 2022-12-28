@@ -1,0 +1,87 @@
+	GIT
+************************
+Free & open source
+Distributed version control system DVCS
+
+Repository : Histroy of project
+
+Git Installtion : 
+1 : install cli
+2 : Verify git version : git --version
+3 : Explore git  help : git --help
+4 : 
+
+create repo : 
+mkdir
+
+git init : inialize git
+git status : current staus
+git config --global user.name "username"
+git config --global user.email "useremail"
+
+5 : imp commands :
+Add, commit, logstatus, push, pull, flags
+
+*working director
+
+--create file : 
+touch filename
+
+--open file in notepad
+notepad filename
+
+--view conten
+cat filename
+
+*statging area
+git add filename
+git add . => all files
+
+*repository
+git commit -m 'message'
+
+*log
+git log
+git log --oneline
+
+
+*********************Git HUB**********************
+Code hositn platform 
+
+Create Account
+
+----
+git remote
+
+git remote add aliasname projectpath
+
+git push -u origin master
+
+***************************************************
+git branches
+
+--git branch
+-- git branch branchname
+-- git checkout branchname
+-- git merge branchname  
+
+**************************************************
+git clone
+ 
+--git clone projectpath
+
+*****************************************
+git ignore
+
+ls -a : show hidden files
+
+touch .gitignore
+
+
+
+
+
+
+
+
+
